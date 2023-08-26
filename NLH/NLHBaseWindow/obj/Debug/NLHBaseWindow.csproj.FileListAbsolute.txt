@@ -1,0 +1,24 @@
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csprojAssemblyReference.cache
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.AssemblyReference.cache
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.AssemblyReference.cache
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+D:\LASALLE COLLEGE\2022 FALL\MULTI-TIER APPLICATIONS\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
